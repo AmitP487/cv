@@ -1,0 +1,37 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    background-color: #EAF6F6;
+    width: 3%;
+}
+h2{
+    color:#66BFBF
+}
+h3{
+    color:#66BFBF
+}
+li{
+    font-size: 20px;
+}
+img:hover{
+    background-color: gold;
+}
+
+/*Class Selector*/
+.Egg{
+    background-color: aqua;
+}
+.Mango{
+    background-color: blue;
+}
+.Roll{
+    background-color: red;
+}
+.Noodles{
+    background-color: green;
+}
